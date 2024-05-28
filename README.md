@@ -2,7 +2,7 @@
 
 This is a Pythonesque way to create a master sequence made up of imported individual cameras in Unreal Engine - for instance if you have 3D tracks for real-world cameras that you want to assemble into a single sequence. The script places a load of individual level sequences into a master sequence, and also adjusts the keys of the level sequences to match their position in the master sequence.
 
-See here for a quick example of how it works: https://youtu.be/zE01PhuVnY4
+See here for a quick example of how it works: https://youtu.be/552k8l18VUA
 
 I've also included the sample project (pre-Python) to show how the cams and level sequences should be set up. This is just a sample with 10 cameras, but the true value of it is if you have a lot (100s) of tracked cameras imported that you need assembled into a master sequence.
 
